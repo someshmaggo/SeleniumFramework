@@ -93,7 +93,7 @@ public class App
     		
 }
     
-    public static String readOTP() throws Exception {
+   /* public static String readOTP() throws Exception {
         //driver.startActivity("com.android.mms", "com.android.mms.ui.ConversationList");
                 driver.openNotifications();
                 try {
@@ -101,7 +101,7 @@ public class App
                     return otp;
                 }catch (NoSuchElementException e){
                     throw new java.lang.Exception("Notification not found");}
-    }v
+    }*/
     
 }
 
